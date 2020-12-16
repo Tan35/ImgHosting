@@ -1,2 +1,2 @@
 # ImgHosting
-博客图床
+Pb
